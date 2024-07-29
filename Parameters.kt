@@ -1,5 +1,6 @@
+//parameters
 fun main() {
-  greet(name = "jamila")
+  greet(name = "HARI")
     
 }
 
