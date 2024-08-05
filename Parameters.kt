@@ -1,4 +1,5 @@
-//parameters
+//parameters in kotlin
+
 fun main() {
   greet(name = "HARI")
     
